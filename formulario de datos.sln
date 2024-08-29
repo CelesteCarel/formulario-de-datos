@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "formulario de datos", "formulario de datos.pyproj", "{A3BF48C8-AAA6-44E4-9148-081EAFFB3CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3BF48C8-AAA6-44E4-9148-081EAFFB3CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BF48C8-AAA6-44E4-9148-081EAFFB3CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AA1CE97-50F7-4FA8-8E0C-609BED49BFD9}
+	EndGlobalSection
+EndGlobal
